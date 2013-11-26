@@ -3,7 +3,7 @@ imq
 
 Back up tool to make image from server
 
-{{{
+```
 ./imq
 FreeSpace home:210.07 GB
 Usage: imq (Options)  
@@ -14,4 +14,4 @@ Usage: imq (Options)
 	--decompress or -d file.imq: open imagefile imq from cd down.. recursive.
 	--version or -V: show the version of conversion used
 	--help or -h: display this text.
-}}}
+```
