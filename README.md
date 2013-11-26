@@ -1,4 +1,4 @@
-imq  Back-Up app
+imq  Back-Up console app
 ===
 
 Back up tool to make image from server
