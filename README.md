@@ -2,7 +2,7 @@ imq  Back-Up console app
 ===
 
 Back up tool to make image from server
-Compatible to build on qt5 & qt4.8
+Compatible to build on qt5 & qt4.8   🍌🍌🍌🍌🍌🍌🍌🍌🍌 
 
 ```
 ./imq
